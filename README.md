@@ -7,7 +7,7 @@ This repository contains the code and resources for a computer vision project fo
 Luis A Carmona
 Zander
 Joel Thomas
-[Your Name]
+Ben Harris
 
 ## Project Goals
 The project aims to:
